@@ -1,5 +1,5 @@
 Name : Annadi Ajay Reddy
 Roll Num : 184105
 
-class time table : 
-course registration form : 
+class time table : https://ajayreddy-8374.github.io/WebTech/assign3/assign3a
+course registration form : https://ajayreddy-8374.github.io/WebTech/assign3/assign3b
