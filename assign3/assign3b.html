@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Registration Form</title>
+</head>
+
+<body style="
+      text-align: center;
+      font-size: 30px;
+      background-color: rgb(162, 231, 231);
+    ">
+    <form action="submit.html">
+        <h2>Course Registration Form</h2>
+        <label>Full name : </label><input type="text" required /><br />
+        <label>Reg Number : </label><input type="number" required /><br />
+        <label>Email id : </label><input type="email" required /><br />
+
+        <label>Year and semester:</label>
+        <input list="browsers" id="browser" required />
+        <datalist id="browsers">
+            <option value="2-1"></option>
+            <option value="2-2"></option>
+            <option value="3-1"></option>
+            <option value="3-2"></option>
+            <option value="4-1"></option>
+            <option value="4-2"></option>
+        </datalist><br />
+
+        <br />
+        <label for="Subjects">Choose Subjects:</label>
+        <select name="Subjects" id="Subjects" size="4" multiple>
+            <option value="Data Networks">Data Networks</option>
+            <option value="Digital Signal Processing">
+                Digital Signal Processing
+            </option>
+            <option value="Embedded and Real Time Operating Systems ">
+                Embedded and Real Time Operating Systems
+            </option>
+            <option value="Information theory & coding">
+                Information theory & coding
+            </option>
+            <option value="Web Technologies">Web Technologies</option>
+            <option value="Low Power VLSI">Low Power VLSI</option>
+            <option value="Communication Systems Lab">
+                Communication Systems Lab
+            </option>
+            <option value="Data Networks Lab">Data Networks Lab</option>
+            <option value="Open Elective">Open Elective</option>
+        </select><br />
+        <p style="font-size: medium">
+            Note : To select multiple subjects, press and hold ctrl/cmd and select
+            subjects
+        </p>
+        <div style="font-size: 20px; align-items: center">
+            <label>Image of ID card : </label><input type="file" />
+        </div>
+        <br />
+        <button>Submit</button>
+    </form>
+</body>
+
+</html>
