@@ -3,7 +3,7 @@
 ## Name : Annadi Ajay Reddy
 
 
-Assignments of the Web Technologies subject are hosted using github pages in this Repository
+_**Assignments of the Web Technologies subject are hosted using github pages in this Repository**_
 
 
 Assignment 1 : [Link](https://ajayreddy-8374.github.io/WebTech/site/index)
