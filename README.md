@@ -6,6 +6,9 @@
 _**Assignments of the Web Technologies subject are hosted using github pages in this Repository**_
 
 
+GitHub Pages link : [link](https://ajayreddy-8374.github.io/WebTech/)
+
+
 GitHub Repo Link : [link](https://github.com/ajayreddy-8374)
 
 
